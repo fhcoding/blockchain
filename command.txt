@@ -1,0 +1,3 @@
+npm install typescript ts-node @types/node @types/express --save-dev
+npx tsc --init
+npm install dotenv
